@@ -1,6 +1,6 @@
 # Example SQL  <img align="right" alt="Sorry, Cannot find photo!" src="https://udemy-certificate.s3.amazonaws.com/image/UC-7d3b412e-c27e-4307-bc72-f4551fe5503a.jpg" height="250px" > 
 
-[I wrote some example queries](https://github.com/caleanunoah/SQL_Example/blob/main/queries.sql) to exemplify some experience with SQL. The database I use is full of employee information with tables with employees, departments, salaries [available here] ()
+[I wrote some example queries](https://github.com/caleanunoah/SQL_Example/blob/main/queries.sql) to exemplify some experience with SQL. The database I use is full of employee information with tables with employees, departments, salaries [available here] (https://www.dropbox.com/s/znmjrtlae6vt4zi/employees.sql?dl=0)
 
 ## Example Queries
 * Query 1: 
