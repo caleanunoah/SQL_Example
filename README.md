@@ -1,4 +1,4 @@
-# Example SQL  <img align="right" alt="Sorry, Cannot find photo!" src="https://udemy-certificate.s3.amazonaws.com/image/UC-7d3b412e-c27e-4307-bc72-f4551fe5503a.jpg" width="150px" height="150px" > 
+# Example SQL  <img align="right" alt="Sorry, Cannot find photo!" src="https://udemy-certificate.s3.amazonaws.com/image/UC-7d3b412e-c27e-4307-bc72-f4551fe5503a.jpg"  > 
 
 I wrote some example [queries](https://github.com/caleanunoah/SQL_Example/blob/main/queries.sql) to exemplify some experience with SQL. The database I use is full of employee information with tables with employees, departments, salaries [available here] ()
 
