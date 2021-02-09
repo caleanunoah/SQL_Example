@@ -2,7 +2,7 @@
 
 [I wrote some example queries](https://github.com/caleanunoah/SQL_Example/blob/main/queries.sql) to exemplify some experience with SQL. The database I use is full of employee information [available here](https://www.dropbox.com/s/znmjrtlae6vt4zi/employees.sql?dl=0)
 
-## Example Queries
+## Queries in queries.sql
 * Query 1: 
 * Query 2: 
 * Query 3: 
